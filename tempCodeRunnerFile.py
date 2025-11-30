@@ -1,0 +1,1 @@
+print("Total is ", total)
