@@ -9,3 +9,5 @@
 ## Day 5: Conditional statement - If else, if elif else, logical operators
 
 ## Day 6: Loops in Python - For Loop
+
+## Day 7: Whle loop

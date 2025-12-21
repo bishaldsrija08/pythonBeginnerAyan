@@ -14,3 +14,8 @@ for even_number in range(2, 21, 2):
 
 for odd_number in range(1, 21, 2): # 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
     print(odd_number, end=" ") # end=" " => to print in the same line with space
+    
+# 10 to 1 using for loop
+print()
+for i in range(10, 0, -1):
+    print(i, end=" ")
