@@ -1,1 +1,0 @@
-print("Total is ", total)
