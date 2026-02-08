@@ -1,0 +1,15 @@
+Write a Python program to print “Hello, Python!”
+
+Write a program to print your name, class, and school on separate lines.
+
+Create variables for name, age, and favorite color, then print them.
+
+Store two numbers in variables and print their sum.
+
+Create variables of type int, float, string, and boolean and print their types.
+
+Convert an integer to a float and print the result.
+
+Take the user’s name as input and print “Welcome, <name>”.
+
+Take two numbers from the user and print their addition and multiplication.
