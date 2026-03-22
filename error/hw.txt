@@ -1,0 +1,1 @@
+Write a program that asks for a number from the user, divides 100 by that number, and handles ZeroDivisionError and ValueError.
